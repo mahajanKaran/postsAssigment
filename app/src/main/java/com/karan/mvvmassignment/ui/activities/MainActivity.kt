@@ -1,4 +1,4 @@
-package com.karan.mvvmassignment.ui
+package com.karan.mvvmassignment.ui.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
